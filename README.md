@@ -1,4 +1,4 @@
-![GitHub Cards Preview](https://github.com/gautam84/WeatherToday/blob/master/art/WeatherTodayMockUp.jpg?raw=true)
+![GitHub Cards Preview](https://github.com/gautam84/WeatherToday/blob/master/art/WeatherTodayMockUp.png?raw=true)
 
 # ⛅ WeatherToday
 WeatherToday is a simple weather app built using the MVI architecture pattern. It uses the Android phone's gps to retrieve user's current location and then retrieves weather information using open-meteo API.
